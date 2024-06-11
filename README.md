@@ -84,6 +84,8 @@ We believe the CDMS project will be feasible for the following reasons:
 ## Class Diagram
 
 ![Class Diagram](screenshots/Class_Diagram.png)
+<img src="screenshots/Class_Diagram.png" alt="Class Diagram" width="400"/>
+
 
 
 
