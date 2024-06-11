@@ -22,8 +22,13 @@ Our team has developed a robust application known as the Car Dealership Manageme
 - Displaying relevant tables
 - Clearing texts when necessary
 
-## Login
+### Login
 Check the username and password and let the user log in to the system. Upon successful installation, the product window will appear.
+
+<details>
+<summary>Login Page</summary>
+<img src="screenshots/Log in.png" alt = "Login Page" width ="300"/>
+</details>
 
 ## Customer
 Allow users to ADD, DELETE and UPDATE new customer profiles, and remove old ones. Also, from this window users can go to other windows as well. The current database is displayed on the window itself.
