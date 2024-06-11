@@ -81,9 +81,9 @@ We believe the CDMS project will be feasible for the following reasons:
 - **Java and Swing:** Java is a popular and well-supported programming language, and Swing components are platform-independent.
 - **MVC Architecture:** The MVC architecture is a well-established and proven software design pattern. It separates concerns, making the code easier to understand, maintain, and test.
 
-## Class Diagram
+## Class Diagram & Use Case Diagram
 
-![Class Diagram](screenshots/Class_Diagram.png)
+<!-- ![Class Diagram](screenshots/Class_Diagram.png) -->
 <img src="screenshots/Class_Diagram.png" alt="Class Diagram" width="400"/>
 <img src="screenshots/Use_Case_Diagram.png" alt="Use Case Diagram" width="400"/>
 
