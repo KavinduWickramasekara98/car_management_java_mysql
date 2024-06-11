@@ -38,28 +38,28 @@ Check the username and password and let the user log in to the system. Upon succ
 Allow users to ADD, DELETE and UPDATE new customer profiles. The current database is displayed on the window itself.
 <details>
 <summary>Customer Page</summary>
-<img src="screenshots/Customer.png" alt = "Customer Page" width ="300"/>
+<img src="screenshots/Customer.png" alt = "Customer Page" width ="500"/>
 </details>
 
 ### Product 
 Enables users to ADD, DELETE, and UPDATE the Car ID, Car Name, Category, Year, Supplier Name, Year, Price and Supplier ID in the database.
 <details>
 <summary>Product Page</summary>
-<img src="screenshots/Product.png" alt = "Product Page" width ="300"/>
+<img src="screenshots/Product.png" alt = "Product Page" width ="500"/>
 </details>
 
 ### Supplier
 Facilitates adding new suppliers, removing already added suppliers and displaying the current database table of suppliers.
 <details>
 <summary>Supplier Page</summary>
-<img src="screenshots/Supplier.png" alt = "Supplier Page" width ="300"/>
+<img src="screenshots/Supplier.png" alt = "Supplier Page" width ="500"/>
 </details>
 
 ### Order
 Allow the user to add Customer ID, Product Name, Category, Quantity, Payment Method, Year, and Price and print the current database.
 <details>
 <summary>Order Page</summary>
-<img src="screenshots/Order.png" alt = "Order Page" width ="300"/>
+<img src="screenshots/Order.png" alt = "Order Page" width ="500"/>
 </details>
 
 
@@ -83,5 +83,5 @@ We believe the CDMS project will be feasible for the following reasons:
 
 ## Class Diagram
 
-![Class Diagram] (https://github.com/TDR-VOID/Car-Management-POS-java/blob/main/screenshots/Car%20Dealership%20Management%20System.png)
+![Class Diagram](screenshots/Car Dealership Management System.png)
 In summary, the Car Dealership Management System (CDMS) is a comprehensive solution designed to enhance the management of car dealerships, improve operational efficiency, and provide a competitive edge in the marketplace.
