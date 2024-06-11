@@ -84,10 +84,10 @@ We believe the CDMS project will be feasible for the following reasons:
 ## Class Diagram & Use Case Diagram
 
 <!-- ![Class Diagram](screenshots/Class_Diagram.png) -->
-<img src="screenshots/Class_Diagram.png" alt="Class Diagram" width="400"/>
-<img src="screenshots/Use_Case_Diagram.png" alt="Use Case Diagram" width="400"/>
+<img src="screenshots/Class_Diagram.png" alt="Class Diagram" width="500"/>
+<img src="screenshots/Use_Case_Diagram.png" alt="Use Case Diagram" width="500"/>
 
 
 
 
-In summary, the Car Dealership Management System (CDMS) is a comprehensive solution designed to enhance the management of car dealerships, improve operational efficiency, and provide a competitive edge in the marketplace.
+- In summary, the Car Dealership Management System (CDMS) is a comprehensive solution designed to enhance the management of car dealerships, improve operational efficiency, and provide a competitive edge in the marketplace.
