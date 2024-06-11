@@ -62,7 +62,7 @@ Allow the user to add Customer ID, Product Name, Category, Quantity, Payment Met
 <img src="screenshots/Order.png" alt = "Order Page" width ="500"/>
 </details>
 
-<be>
+<br>
 
 ## Additional Information
 
