@@ -31,7 +31,7 @@ Check the username and password and let the user log in to the system. Upon succ
 
 <details>
 <summary>Login Page</summary>
-<img src="screenshots/Log in.png" alt = "Login Page" width ="300"/>
+<img src="screenshots/Log_in.png" alt = "Login Page" width ="300"/>
 </details>
 
 ### Customer
@@ -83,7 +83,7 @@ We believe the CDMS project will be feasible for the following reasons:
 
 ## Class Diagram
 
-![Class Diagram](screenshots/Car Dealership Management System.png)
+![Class Diagram](screenshots/Class_Diagram.png)
 
 
 
