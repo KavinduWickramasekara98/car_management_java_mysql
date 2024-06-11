@@ -70,16 +70,16 @@ The CDMS employs the Model-View-Controller (MVC) architecture, ensuring a clear 
 
 ### Benefits
 
-- *Platform Independence:* The CDMS can be easily run on any computer, without requiring advanced knowledge of computers or databases, thanks to the use of Java and Swing.
-- *Efficiency:* By automating various tasks, the system reduces the workload on dealership staff, allowing them to focus on more critical aspects such as customer service and car sales.
-- *Customer Satisfaction:* By providing personalized service, the CDMS ensures superior customer experience, giving the dealers a competitive edge in the market.
-- *Productivity:* The system improves employee productivity by freeing up staff to focus on essential tasks and providing tools to manage operations effectively.
-- *Competitive Advantage:* The CDMS positions car dealerships for success in a competitive industry by providing efficient and effective information management.
+- **Platform Independence:** The CDMS can be easily run on any computer, without requiring advanced knowledge of computers or databases, thanks to the use of Java and Swing.
+- **Efficiency:** By automating various tasks, the system reduces the workload on dealership staff, allowing them to focus on more critical aspects such as customer service and car sales.
+- **Customer Satisfaction:** By providing personalized service, the CDMS ensures superior customer experience, giving the dealers a competitive edge in the market.
+- **Productivity:** The system improves employee productivity by freeing up staff to focus on essential tasks and providing tools to manage operations effectively.
+- **Competitive Advantage:** The CDMS positions car dealerships for success in a competitive industry by providing efficient and effective information management.
 
 We believe the CDMS project will be feasible for the following reasons:
 
-- *Java and Swing:* Java is a popular and well-supported programming language, and Swing components are platform-independent.
-- *MVC Architecture:* The MVC architecture is a well-established and proven software design pattern. It separates concerns, making the code easier to understand, maintain, and test.
+- **Java and Swing:** Java is a popular and well-supported programming language, and Swing components are platform-independent.
+- **MVC Architecture:** The MVC architecture is a well-established and proven software design pattern. It separates concerns, making the code easier to understand, maintain, and test.
 
 ## Class Diagram
 
