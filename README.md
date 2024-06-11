@@ -63,7 +63,7 @@ Allow the user to add Customer ID, Product Name, Category, Quantity, Payment Met
 </details>
 
 
-
+<br>
 ## Additional Information
 
 The CDMS employs the Model-View-Controller (MVC) architecture, ensuring a clear separation between data representation, user interface, and user interactions. This design enhances the system’s efficiency and makes it user-friendly.
