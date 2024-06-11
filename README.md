@@ -5,22 +5,22 @@ Our team has developed a robust application known as the Car Dealership Manageme
 
 
 ## Objective
-1. Provide a comprehensive and easy-to-use system for managing car dealerships in Colombo.
-2. Improve the efficiency and accuracy of car dealership operations.
-3. Reduce the workload on car dealership staff.
-4. Gain a competitive advantage: The CDMS can help car dealerships gain a competitive advantage by providing them with information more efficiently and effectively.
+- Provide a comprehensive and easy-to-use system for managing car dealerships in Colombo.
+- Improve the efficiency and accuracy of car dealership operations.
+- Reduce the workload on car dealership staff.
+- Gain a competitive advantage: The CDMS can help car dealerships gain a competitive advantage by providing them with information more efficiently and effectively.
 
 ## Class Diagram
 
 
 ## Features
 
-Add
-Delete
-Login
-Update
-Displaying relevant tables
-Clearing texts when necessary
+- Add
+- Delete
+- Login
+- Update
+- Displaying relevant tables
+- Clearing texts when necessary
 
 ## Login
 Check the username and password and let the user log in to the system. Upon successful installation, the product window will appear.
